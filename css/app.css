@@ -40,6 +40,12 @@ body {
     text-align: center;
 }
 
+h1 {
+    margin: 0;
+    transform: rotate(-45deg);
+    text-shadow: orange;
+}
+
 h2 {
     margin: 0;
     transform: rotate(-45deg);
